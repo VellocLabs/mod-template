@@ -1,0 +1,10 @@
+{
+  "name": "example-mod",
+  "version": "0.1.0",
+  "description": "Describe what this mod does.",
+  "author": {
+    "name": "Velloc"
+  },
+  "license": "MIT",
+  "keywords": ["mod"]
+}
